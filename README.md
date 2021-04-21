@@ -25,4 +25,4 @@ Delete() → for deleting element
 Display() → for display
 
 
-#Compile the main.c file and then run the program.
+# Compile the main.c file and then run the program.
